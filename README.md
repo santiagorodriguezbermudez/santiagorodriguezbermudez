@@ -33,6 +33,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Embrace change. Design your code to enjoy it.](https://medium.com/dev-genius/embrace-change-design-your-code-to-enjoy-it-57b8f6cf2eb4?source=rss-dbeb876207cb------2)
+- [7 mistakes I made while learning to code.](https://medium.com/dev-genius/7-mistakes-i-made-while-learning-to-code-8b2b54a532c5?source=rss-dbeb876207cb------2)
+- [Microverse: A Self-Governing Community](https://medium.com/@srba87/microverse-a-self-governing-community-69bd98027785?source=rss-dbeb876207cb------2)
+- [Hello world!](https://medium.com/@srba87/hello-world-6f780af0b370?source=rss-dbeb876207cb------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
