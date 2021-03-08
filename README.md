@@ -1,9 +1,9 @@
 ### Hi! I'm Santiago 👋
 
 ## I'm a Husband, Entrepreneur and Developer!
-- 🤓 I'm currently studying at Microverse[microverse]
+- 🤓 I'm currently working at [Bunny Studio](https://bunnystudio.com/)
 - 🟣🔵🟡 I’m building a startup as a side project [Mind click][website]!
-- 🏁 2020 Goals: Learn how to code and build amazing products
+- 🏁 2021 Goal: Build amazing products
 
 ### Connect with me:
 
