@@ -42,7 +42,5 @@
 
 ---
 
-<img align="left" alt="Santiago's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=santiagorodriguezbermudez&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/srba87
 [linkedin]: https://linkedin.com/in/srba
