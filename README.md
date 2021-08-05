@@ -2,7 +2,6 @@
 
 ## I'm a Husband, Entrepreneur and Developer!
 - 🤓 I'm currently working at [Bunny Studio](https://bunnystudio.com/)
-- 🟣🔵🟡 I’m building a startup as a side project [Mind click][website]!
 - 🏁 2021 Goal: Build amazing products
 
 ### Connect with me:
