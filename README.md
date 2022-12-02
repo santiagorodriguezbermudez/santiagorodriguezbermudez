@@ -1,6 +1,6 @@
 ### Hi! I'm Santiago 👋
 
-## I'm a Husband, Entrepreneur and Developer!
+## I'm a Dad, Husband, Entrepreneur and Developer!
 - 🤓 I'm currently working at [Bunny Studio](https://bunnystudio.com/)
 
 ### Connect with me:
