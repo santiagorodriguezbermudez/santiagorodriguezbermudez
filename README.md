@@ -1,7 +1,7 @@
 ### Hi! I'm Santiago 👋
 
 ## I'm a Dad, Husband, Entrepreneur and Developer!
-- 🤓 I'm currently working at [Bunny Studio](https://bunnystudio.com/)
+- 🤓 I'm currently working at [Skillshare](https://skillshare.com/)
 
 ### Connect with me:
 
