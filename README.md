@@ -1,7 +1,7 @@
 ### Hi! I'm Santiago 👋
 
 ## I'm a Dad, Husband, Entrepreneur and Developer!
-- 🤓 I'm currently looking fo any open position!
+- 🤓 I'm currently working at Exante
 
 ### Connect with me:
 
